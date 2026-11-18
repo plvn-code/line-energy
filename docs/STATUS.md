@@ -1,6 +1,6 @@
 # Status — started 2026-11-18
 
-Local preview: http://localhost:3022. No GitHub / Vercel yet.
+Local preview: http://localhost:3022. GitHub: github.com/plvn-code/line-energy (main). No Vercel yet.
 
 ## Done
 Full redesign in Ukrainian: home (video hero, manifest, «Один день вашого дому» scroll scene, station types, objects stack, calculator, blackout planner, process, why, generator vs station, guarantees, credit, FAQ, request band), 9 object pages, objects list with filters, services, calculator, credit, about, FAQ (12 questions + FAQPage schema), contacts, 404, sitemap, robots. Checked at 1440 and 390 px; no horizontal scroll; lint + tsc clean.
